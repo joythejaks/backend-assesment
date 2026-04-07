@@ -7,7 +7,7 @@ def fetch_all_customers():
 
     while True:
         res = requests.get(
-            f"http://localhost:5000/api/customers?page={page}&limit={limit}"
+            f"http://mock-server:5000/api/customers?page={page}&limit={limit}"
         )
         data = res.json()
 
