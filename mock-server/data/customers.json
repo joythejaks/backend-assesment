@@ -273,5 +273,60 @@
     "date_of_birth": "1993-01-25",
     "account_balance": 2900000,
     "created_at": "2024-01-25T10:00:00"
+  },
+  {
+    "customer_id": "CUST026",
+    "first_name": "Arif",
+    "last_name": "Rahman",
+    "email": "arif@email.com",
+    "phone": "08123456026",
+    "address": "Cimahi",
+    "date_of_birth": "1996-02-26",
+    "account_balance": 1600000,
+    "created_at": "2024-01-26T10:00:00"
+  },
+  {
+    "customer_id": "CUST027",
+    "first_name": "Dinda",
+    "last_name": "Febrianti",
+    "email": "dinda@email.com",
+    "phone": "08123456027",
+    "address": "Probolinggo",
+    "date_of_birth": "1995-03-27",
+    "account_balance": 2050000,
+    "created_at": "2024-01-27T10:00:00"
+  },
+  {
+    "customer_id": "CUST028",
+    "first_name": "Reza",
+    "last_name": "Maulana",
+    "email": "reza@email.com",
+    "phone": "08123456028",
+    "address": "Tasikmalaya",
+    "date_of_birth": "1997-04-28",
+    "account_balance": 1850000,
+    "created_at": "2024-01-28T10:00:00"
+  },
+  {
+    "customer_id": "CUST029",
+    "first_name": "Sinta",
+    "last_name": "Purnamasari",
+    "email": "sinta@email.com",
+    "phone": "08123456029",
+    "address": "Purwokerto",
+    "date_of_birth": "1994-05-29",
+    "account_balance": 2700000,
+    "created_at": "2024-01-29T10:00:00"
+  },
+  {
+    "customer_id": "CUST030",
+    "first_name": "Dimas",
+    "last_name": "Prasetyo",
+    "email": "dimas@email.com",
+    "phone": "08123456030",
+    "address": "Salatiga",
+    "date_of_birth": "1998-06-30",
+    "account_balance": 2300000,
+    "created_at": "2024-01-30T10:00:00"
   }
 ]
