@@ -158,6 +158,13 @@ This project demonstrates a simple yet effective **data pipeline architecture**,
 - Database integration
 - Data processing workflow
 
+## 🔧 Improvements (Future Work)
+
+- Add authentication
+- Implement async ingestion
+- Add unit testing
+- Use environment variables for configuration
+
 ---
 
 ## 📌 Author
